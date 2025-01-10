@@ -1,4 +1,4 @@
-### metricalgpt
+# metricalgpt
 
 A GPT prompter specialized to generate metrical lines
 +
