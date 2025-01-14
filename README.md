@@ -1,23 +1,27 @@
 # metricalgpt
 
-A GPT prompter specialized to generate metrical lines
+A GPT prompter to generate metrical lines (prompt_generator.ipynb)
 +
-a parser for these lines using prosodic.py; adds these outputs to a dataframe or csv for further analysis
+a parser for these lines using prosodic.py (LLM_prompt_and_parse.ipynb)
+   
+   # takes dictionary of prompts, get responses via API, parses results with prosodic.py
 
++ tools for analyzing the results
 
-## scansion scripts:
+## other scansion scripts:
 
 parseloop:  allows chunking and processing of larger csv corpora with prosodic.py
 
 easy_scansion_tool: to play with prosodic.py outputs and meter configurations 
 
-LLM_prompt_and_parse: create dictionaries of prompts, get responses via API, then parse results with prosodic.py
 
+## saved data:
 
-## data:
-
-AI data for o1_mini and chatgpt-4o-latest (as of Jan 10 2025) 
-
+AI data for o1_mini 
+AI data for chatgpt-4o-latest (as of Jan 10 2025) 
 ECPA (Eighteen century poetry archive) foir 18C blank verse data and analysis
+
+
+@cretic
 
 
