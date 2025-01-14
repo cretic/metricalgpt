@@ -1,0 +1,376 @@
+meter,variation,seed_word,prompt
+in iambic pentameter,,bear,write a line in iambic pentameter including the word bear 
+in iambic pentameter,,whale,write a line in iambic pentameter including the word whale 
+in iambic pentameter,,sloth,write a line in iambic pentameter including the word sloth 
+in iambic pentameter,,cat,write a line in iambic pentameter including the word cat 
+in iambic pentameter,,dog,write a line in iambic pentameter including the word dog 
+in iambic pentameter,,giraffe,write a line in iambic pentameter including the word giraffe 
+in iambic pentameter,,gazelle,write a line in iambic pentameter including the word gazelle 
+in iambic pentameter,,baboon,write a line in iambic pentameter including the word baboon 
+in iambic pentameter,,raccoon,write a line in iambic pentameter including the word raccoon 
+in iambic pentameter,,macaw,write a line in iambic pentameter including the word macaw 
+in iambic pentameter,,alpaca,write a line in iambic pentameter including the word alpaca 
+in iambic pentameter,,hyena,write a line in iambic pentameter including the word hyena 
+in iambic pentameter,,chinchilla,write a line in iambic pentameter including the word chinchilla 
+in iambic pentameter,,coyote,write a line in iambic pentameter including the word coyote 
+in iambic pentameter,,gorilla,write a line in iambic pentameter including the word gorilla 
+in iambic pentameter,,kangaroo,write a line in iambic pentameter including the word kangaroo 
+in iambic pentameter,,platypus,write a line in iambic pentameter including the word platypus 
+in iambic pentameter,,porcupine,write a line in iambic pentameter including the word porcupine 
+in iambic pentameter,,pangolin,write a line in iambic pentameter including the word pangolin 
+in iambic pentameter,,ocelot,write a line in iambic pentameter including the word ocelot 
+in iambic pentameter,,lemur,write a line in iambic pentameter including the word lemur 
+in iambic pentameter,,lemming,write a line in iambic pentameter including the word lemming 
+in iambic pentameter,,otter,write a line in iambic pentameter including the word otter 
+in iambic pentameter,,parrot,write a line in iambic pentameter including the word parrot 
+in iambic pentameter,,squirrel,write a line in iambic pentameter including the word squirrel 
+in iambic pentameter,with rhythmic variation,bear,write a line in iambic pentameter including the word bear with rhythmic variation
+in iambic pentameter,with rhythmic variation,whale,write a line in iambic pentameter including the word whale with rhythmic variation
+in iambic pentameter,with rhythmic variation,sloth,write a line in iambic pentameter including the word sloth with rhythmic variation
+in iambic pentameter,with rhythmic variation,cat,write a line in iambic pentameter including the word cat with rhythmic variation
+in iambic pentameter,with rhythmic variation,dog,write a line in iambic pentameter including the word dog with rhythmic variation
+in iambic pentameter,with rhythmic variation,giraffe,write a line in iambic pentameter including the word giraffe with rhythmic variation
+in iambic pentameter,with rhythmic variation,gazelle,write a line in iambic pentameter including the word gazelle with rhythmic variation
+in iambic pentameter,with rhythmic variation,baboon,write a line in iambic pentameter including the word baboon with rhythmic variation
+in iambic pentameter,with rhythmic variation,raccoon,write a line in iambic pentameter including the word raccoon with rhythmic variation
+in iambic pentameter,with rhythmic variation,macaw,write a line in iambic pentameter including the word macaw with rhythmic variation
+in iambic pentameter,with rhythmic variation,alpaca,write a line in iambic pentameter including the word alpaca with rhythmic variation
+in iambic pentameter,with rhythmic variation,hyena,write a line in iambic pentameter including the word hyena with rhythmic variation
+in iambic pentameter,with rhythmic variation,chinchilla,write a line in iambic pentameter including the word chinchilla with rhythmic variation
+in iambic pentameter,with rhythmic variation,coyote,write a line in iambic pentameter including the word coyote with rhythmic variation
+in iambic pentameter,with rhythmic variation,gorilla,write a line in iambic pentameter including the word gorilla with rhythmic variation
+in iambic pentameter,with rhythmic variation,kangaroo,write a line in iambic pentameter including the word kangaroo with rhythmic variation
+in iambic pentameter,with rhythmic variation,platypus,write a line in iambic pentameter including the word platypus with rhythmic variation
+in iambic pentameter,with rhythmic variation,porcupine,write a line in iambic pentameter including the word porcupine with rhythmic variation
+in iambic pentameter,with rhythmic variation,pangolin,write a line in iambic pentameter including the word pangolin with rhythmic variation
+in iambic pentameter,with rhythmic variation,ocelot,write a line in iambic pentameter including the word ocelot with rhythmic variation
+in iambic pentameter,with rhythmic variation,lemur,write a line in iambic pentameter including the word lemur with rhythmic variation
+in iambic pentameter,with rhythmic variation,lemming,write a line in iambic pentameter including the word lemming with rhythmic variation
+in iambic pentameter,with rhythmic variation,otter,write a line in iambic pentameter including the word otter with rhythmic variation
+in iambic pentameter,with rhythmic variation,parrot,write a line in iambic pentameter including the word parrot with rhythmic variation
+in iambic pentameter,with rhythmic variation,squirrel,write a line in iambic pentameter including the word squirrel with rhythmic variation
+in iambic pentameter,with a trochaic inversion,bear,write a line in iambic pentameter including the word bear with a trochaic inversion
+in iambic pentameter,with a trochaic inversion,whale,write a line in iambic pentameter including the word whale with a trochaic inversion
+in iambic pentameter,with a trochaic inversion,sloth,write a line in iambic pentameter including the word sloth with a trochaic inversion
+in iambic pentameter,with a trochaic inversion,cat,write a line in iambic pentameter including the word cat with a trochaic inversion
+in iambic pentameter,with a trochaic inversion,dog,write a line in iambic pentameter including the word dog with a trochaic inversion
+in iambic pentameter,with a trochaic inversion,giraffe,write a line in iambic pentameter including the word giraffe with a trochaic inversion
+in iambic pentameter,with a trochaic inversion,gazelle,write a line in iambic pentameter including the word gazelle with a trochaic inversion
+in iambic pentameter,with a trochaic inversion,baboon,write a line in iambic pentameter including the word baboon with a trochaic inversion
+in iambic pentameter,with a trochaic inversion,raccoon,write a line in iambic pentameter including the word raccoon with a trochaic inversion
+in iambic pentameter,with a trochaic inversion,macaw,write a line in iambic pentameter including the word macaw with a trochaic inversion
+in iambic pentameter,with a trochaic inversion,alpaca,write a line in iambic pentameter including the word alpaca with a trochaic inversion
+in iambic pentameter,with a trochaic inversion,hyena,write a line in iambic pentameter including the word hyena with a trochaic inversion
+in iambic pentameter,with a trochaic inversion,chinchilla,write a line in iambic pentameter including the word chinchilla with a trochaic inversion
+in iambic pentameter,with a trochaic inversion,coyote,write a line in iambic pentameter including the word coyote with a trochaic inversion
+in iambic pentameter,with a trochaic inversion,gorilla,write a line in iambic pentameter including the word gorilla with a trochaic inversion
+in iambic pentameter,with a trochaic inversion,kangaroo,write a line in iambic pentameter including the word kangaroo with a trochaic inversion
+in iambic pentameter,with a trochaic inversion,platypus,write a line in iambic pentameter including the word platypus with a trochaic inversion
+in iambic pentameter,with a trochaic inversion,porcupine,write a line in iambic pentameter including the word porcupine with a trochaic inversion
+in iambic pentameter,with a trochaic inversion,pangolin,write a line in iambic pentameter including the word pangolin with a trochaic inversion
+in iambic pentameter,with a trochaic inversion,ocelot,write a line in iambic pentameter including the word ocelot with a trochaic inversion
+in iambic pentameter,with a trochaic inversion,lemur,write a line in iambic pentameter including the word lemur with a trochaic inversion
+in iambic pentameter,with a trochaic inversion,lemming,write a line in iambic pentameter including the word lemming with a trochaic inversion
+in iambic pentameter,with a trochaic inversion,otter,write a line in iambic pentameter including the word otter with a trochaic inversion
+in iambic pentameter,with a trochaic inversion,parrot,write a line in iambic pentameter including the word parrot with a trochaic inversion
+in iambic pentameter,with a trochaic inversion,squirrel,write a line in iambic pentameter including the word squirrel with a trochaic inversion
+in iambic pentameter,with a trochaic inversion after a caesura,bear,write a line in iambic pentameter including the word bear with a trochaic inversion after a caesura
+in iambic pentameter,with a trochaic inversion after a caesura,whale,write a line in iambic pentameter including the word whale with a trochaic inversion after a caesura
+in iambic pentameter,with a trochaic inversion after a caesura,sloth,write a line in iambic pentameter including the word sloth with a trochaic inversion after a caesura
+in iambic pentameter,with a trochaic inversion after a caesura,cat,write a line in iambic pentameter including the word cat with a trochaic inversion after a caesura
+in iambic pentameter,with a trochaic inversion after a caesura,dog,write a line in iambic pentameter including the word dog with a trochaic inversion after a caesura
+in iambic pentameter,with a trochaic inversion after a caesura,giraffe,write a line in iambic pentameter including the word giraffe with a trochaic inversion after a caesura
+in iambic pentameter,with a trochaic inversion after a caesura,gazelle,write a line in iambic pentameter including the word gazelle with a trochaic inversion after a caesura
+in iambic pentameter,with a trochaic inversion after a caesura,baboon,write a line in iambic pentameter including the word baboon with a trochaic inversion after a caesura
+in iambic pentameter,with a trochaic inversion after a caesura,raccoon,write a line in iambic pentameter including the word raccoon with a trochaic inversion after a caesura
+in iambic pentameter,with a trochaic inversion after a caesura,macaw,write a line in iambic pentameter including the word macaw with a trochaic inversion after a caesura
+in iambic pentameter,with a trochaic inversion after a caesura,alpaca,write a line in iambic pentameter including the word alpaca with a trochaic inversion after a caesura
+in iambic pentameter,with a trochaic inversion after a caesura,hyena,write a line in iambic pentameter including the word hyena with a trochaic inversion after a caesura
+in iambic pentameter,with a trochaic inversion after a caesura,chinchilla,write a line in iambic pentameter including the word chinchilla with a trochaic inversion after a caesura
+in iambic pentameter,with a trochaic inversion after a caesura,coyote,write a line in iambic pentameter including the word coyote with a trochaic inversion after a caesura
+in iambic pentameter,with a trochaic inversion after a caesura,gorilla,write a line in iambic pentameter including the word gorilla with a trochaic inversion after a caesura
+in iambic pentameter,with a trochaic inversion after a caesura,kangaroo,write a line in iambic pentameter including the word kangaroo with a trochaic inversion after a caesura
+in iambic pentameter,with a trochaic inversion after a caesura,platypus,write a line in iambic pentameter including the word platypus with a trochaic inversion after a caesura
+in iambic pentameter,with a trochaic inversion after a caesura,porcupine,write a line in iambic pentameter including the word porcupine with a trochaic inversion after a caesura
+in iambic pentameter,with a trochaic inversion after a caesura,pangolin,write a line in iambic pentameter including the word pangolin with a trochaic inversion after a caesura
+in iambic pentameter,with a trochaic inversion after a caesura,ocelot,write a line in iambic pentameter including the word ocelot with a trochaic inversion after a caesura
+in iambic pentameter,with a trochaic inversion after a caesura,lemur,write a line in iambic pentameter including the word lemur with a trochaic inversion after a caesura
+in iambic pentameter,with a trochaic inversion after a caesura,lemming,write a line in iambic pentameter including the word lemming with a trochaic inversion after a caesura
+in iambic pentameter,with a trochaic inversion after a caesura,otter,write a line in iambic pentameter including the word otter with a trochaic inversion after a caesura
+in iambic pentameter,with a trochaic inversion after a caesura,parrot,write a line in iambic pentameter including the word parrot with a trochaic inversion after a caesura
+in iambic pentameter,with a trochaic inversion after a caesura,squirrel,write a line in iambic pentameter including the word squirrel with a trochaic inversion after a caesura
+in iambic pentameter,with an inverted metrical foot,bear,write a line in iambic pentameter including the word bear with an inverted metrical foot
+in iambic pentameter,with an inverted metrical foot,whale,write a line in iambic pentameter including the word whale with an inverted metrical foot
+in iambic pentameter,with an inverted metrical foot,sloth,write a line in iambic pentameter including the word sloth with an inverted metrical foot
+in iambic pentameter,with an inverted metrical foot,cat,write a line in iambic pentameter including the word cat with an inverted metrical foot
+in iambic pentameter,with an inverted metrical foot,dog,write a line in iambic pentameter including the word dog with an inverted metrical foot
+in iambic pentameter,with an inverted metrical foot,giraffe,write a line in iambic pentameter including the word giraffe with an inverted metrical foot
+in iambic pentameter,with an inverted metrical foot,gazelle,write a line in iambic pentameter including the word gazelle with an inverted metrical foot
+in iambic pentameter,with an inverted metrical foot,baboon,write a line in iambic pentameter including the word baboon with an inverted metrical foot
+in iambic pentameter,with an inverted metrical foot,raccoon,write a line in iambic pentameter including the word raccoon with an inverted metrical foot
+in iambic pentameter,with an inverted metrical foot,macaw,write a line in iambic pentameter including the word macaw with an inverted metrical foot
+in iambic pentameter,with an inverted metrical foot,alpaca,write a line in iambic pentameter including the word alpaca with an inverted metrical foot
+in iambic pentameter,with an inverted metrical foot,hyena,write a line in iambic pentameter including the word hyena with an inverted metrical foot
+in iambic pentameter,with an inverted metrical foot,chinchilla,write a line in iambic pentameter including the word chinchilla with an inverted metrical foot
+in iambic pentameter,with an inverted metrical foot,coyote,write a line in iambic pentameter including the word coyote with an inverted metrical foot
+in iambic pentameter,with an inverted metrical foot,gorilla,write a line in iambic pentameter including the word gorilla with an inverted metrical foot
+in iambic pentameter,with an inverted metrical foot,kangaroo,write a line in iambic pentameter including the word kangaroo with an inverted metrical foot
+in iambic pentameter,with an inverted metrical foot,platypus,write a line in iambic pentameter including the word platypus with an inverted metrical foot
+in iambic pentameter,with an inverted metrical foot,porcupine,write a line in iambic pentameter including the word porcupine with an inverted metrical foot
+in iambic pentameter,with an inverted metrical foot,pangolin,write a line in iambic pentameter including the word pangolin with an inverted metrical foot
+in iambic pentameter,with an inverted metrical foot,ocelot,write a line in iambic pentameter including the word ocelot with an inverted metrical foot
+in iambic pentameter,with an inverted metrical foot,lemur,write a line in iambic pentameter including the word lemur with an inverted metrical foot
+in iambic pentameter,with an inverted metrical foot,lemming,write a line in iambic pentameter including the word lemming with an inverted metrical foot
+in iambic pentameter,with an inverted metrical foot,otter,write a line in iambic pentameter including the word otter with an inverted metrical foot
+in iambic pentameter,with an inverted metrical foot,parrot,write a line in iambic pentameter including the word parrot with an inverted metrical foot
+in iambic pentameter,with an inverted metrical foot,squirrel,write a line in iambic pentameter including the word squirrel with an inverted metrical foot
+of blank verse,,bear,write a line of blank verse including the word bear 
+of blank verse,,whale,write a line of blank verse including the word whale 
+of blank verse,,sloth,write a line of blank verse including the word sloth 
+of blank verse,,cat,write a line of blank verse including the word cat 
+of blank verse,,dog,write a line of blank verse including the word dog 
+of blank verse,,giraffe,write a line of blank verse including the word giraffe 
+of blank verse,,gazelle,write a line of blank verse including the word gazelle 
+of blank verse,,baboon,write a line of blank verse including the word baboon 
+of blank verse,,raccoon,write a line of blank verse including the word raccoon 
+of blank verse,,macaw,write a line of blank verse including the word macaw 
+of blank verse,,alpaca,write a line of blank verse including the word alpaca 
+of blank verse,,hyena,write a line of blank verse including the word hyena 
+of blank verse,,chinchilla,write a line of blank verse including the word chinchilla 
+of blank verse,,coyote,write a line of blank verse including the word coyote 
+of blank verse,,gorilla,write a line of blank verse including the word gorilla 
+of blank verse,,kangaroo,write a line of blank verse including the word kangaroo 
+of blank verse,,platypus,write a line of blank verse including the word platypus 
+of blank verse,,porcupine,write a line of blank verse including the word porcupine 
+of blank verse,,pangolin,write a line of blank verse including the word pangolin 
+of blank verse,,ocelot,write a line of blank verse including the word ocelot 
+of blank verse,,lemur,write a line of blank verse including the word lemur 
+of blank verse,,lemming,write a line of blank verse including the word lemming 
+of blank verse,,otter,write a line of blank verse including the word otter 
+of blank verse,,parrot,write a line of blank verse including the word parrot 
+of blank verse,,squirrel,write a line of blank verse including the word squirrel 
+of blank verse,with rhythmic variation,bear,write a line of blank verse including the word bear with rhythmic variation
+of blank verse,with rhythmic variation,whale,write a line of blank verse including the word whale with rhythmic variation
+of blank verse,with rhythmic variation,sloth,write a line of blank verse including the word sloth with rhythmic variation
+of blank verse,with rhythmic variation,cat,write a line of blank verse including the word cat with rhythmic variation
+of blank verse,with rhythmic variation,dog,write a line of blank verse including the word dog with rhythmic variation
+of blank verse,with rhythmic variation,giraffe,write a line of blank verse including the word giraffe with rhythmic variation
+of blank verse,with rhythmic variation,gazelle,write a line of blank verse including the word gazelle with rhythmic variation
+of blank verse,with rhythmic variation,baboon,write a line of blank verse including the word baboon with rhythmic variation
+of blank verse,with rhythmic variation,raccoon,write a line of blank verse including the word raccoon with rhythmic variation
+of blank verse,with rhythmic variation,macaw,write a line of blank verse including the word macaw with rhythmic variation
+of blank verse,with rhythmic variation,alpaca,write a line of blank verse including the word alpaca with rhythmic variation
+of blank verse,with rhythmic variation,hyena,write a line of blank verse including the word hyena with rhythmic variation
+of blank verse,with rhythmic variation,chinchilla,write a line of blank verse including the word chinchilla with rhythmic variation
+of blank verse,with rhythmic variation,coyote,write a line of blank verse including the word coyote with rhythmic variation
+of blank verse,with rhythmic variation,gorilla,write a line of blank verse including the word gorilla with rhythmic variation
+of blank verse,with rhythmic variation,kangaroo,write a line of blank verse including the word kangaroo with rhythmic variation
+of blank verse,with rhythmic variation,platypus,write a line of blank verse including the word platypus with rhythmic variation
+of blank verse,with rhythmic variation,porcupine,write a line of blank verse including the word porcupine with rhythmic variation
+of blank verse,with rhythmic variation,pangolin,write a line of blank verse including the word pangolin with rhythmic variation
+of blank verse,with rhythmic variation,ocelot,write a line of blank verse including the word ocelot with rhythmic variation
+of blank verse,with rhythmic variation,lemur,write a line of blank verse including the word lemur with rhythmic variation
+of blank verse,with rhythmic variation,lemming,write a line of blank verse including the word lemming with rhythmic variation
+of blank verse,with rhythmic variation,otter,write a line of blank verse including the word otter with rhythmic variation
+of blank verse,with rhythmic variation,parrot,write a line of blank verse including the word parrot with rhythmic variation
+of blank verse,with rhythmic variation,squirrel,write a line of blank verse including the word squirrel with rhythmic variation
+of blank verse,with a trochaic inversion,bear,write a line of blank verse including the word bear with a trochaic inversion
+of blank verse,with a trochaic inversion,whale,write a line of blank verse including the word whale with a trochaic inversion
+of blank verse,with a trochaic inversion,sloth,write a line of blank verse including the word sloth with a trochaic inversion
+of blank verse,with a trochaic inversion,cat,write a line of blank verse including the word cat with a trochaic inversion
+of blank verse,with a trochaic inversion,dog,write a line of blank verse including the word dog with a trochaic inversion
+of blank verse,with a trochaic inversion,giraffe,write a line of blank verse including the word giraffe with a trochaic inversion
+of blank verse,with a trochaic inversion,gazelle,write a line of blank verse including the word gazelle with a trochaic inversion
+of blank verse,with a trochaic inversion,baboon,write a line of blank verse including the word baboon with a trochaic inversion
+of blank verse,with a trochaic inversion,raccoon,write a line of blank verse including the word raccoon with a trochaic inversion
+of blank verse,with a trochaic inversion,macaw,write a line of blank verse including the word macaw with a trochaic inversion
+of blank verse,with a trochaic inversion,alpaca,write a line of blank verse including the word alpaca with a trochaic inversion
+of blank verse,with a trochaic inversion,hyena,write a line of blank verse including the word hyena with a trochaic inversion
+of blank verse,with a trochaic inversion,chinchilla,write a line of blank verse including the word chinchilla with a trochaic inversion
+of blank verse,with a trochaic inversion,coyote,write a line of blank verse including the word coyote with a trochaic inversion
+of blank verse,with a trochaic inversion,gorilla,write a line of blank verse including the word gorilla with a trochaic inversion
+of blank verse,with a trochaic inversion,kangaroo,write a line of blank verse including the word kangaroo with a trochaic inversion
+of blank verse,with a trochaic inversion,platypus,write a line of blank verse including the word platypus with a trochaic inversion
+of blank verse,with a trochaic inversion,porcupine,write a line of blank verse including the word porcupine with a trochaic inversion
+of blank verse,with a trochaic inversion,pangolin,write a line of blank verse including the word pangolin with a trochaic inversion
+of blank verse,with a trochaic inversion,ocelot,write a line of blank verse including the word ocelot with a trochaic inversion
+of blank verse,with a trochaic inversion,lemur,write a line of blank verse including the word lemur with a trochaic inversion
+of blank verse,with a trochaic inversion,lemming,write a line of blank verse including the word lemming with a trochaic inversion
+of blank verse,with a trochaic inversion,otter,write a line of blank verse including the word otter with a trochaic inversion
+of blank verse,with a trochaic inversion,parrot,write a line of blank verse including the word parrot with a trochaic inversion
+of blank verse,with a trochaic inversion,squirrel,write a line of blank verse including the word squirrel with a trochaic inversion
+of blank verse,with a trochaic inversion after a caesura,bear,write a line of blank verse including the word bear with a trochaic inversion after a caesura
+of blank verse,with a trochaic inversion after a caesura,whale,write a line of blank verse including the word whale with a trochaic inversion after a caesura
+of blank verse,with a trochaic inversion after a caesura,sloth,write a line of blank verse including the word sloth with a trochaic inversion after a caesura
+of blank verse,with a trochaic inversion after a caesura,cat,write a line of blank verse including the word cat with a trochaic inversion after a caesura
+of blank verse,with a trochaic inversion after a caesura,dog,write a line of blank verse including the word dog with a trochaic inversion after a caesura
+of blank verse,with a trochaic inversion after a caesura,giraffe,write a line of blank verse including the word giraffe with a trochaic inversion after a caesura
+of blank verse,with a trochaic inversion after a caesura,gazelle,write a line of blank verse including the word gazelle with a trochaic inversion after a caesura
+of blank verse,with a trochaic inversion after a caesura,baboon,write a line of blank verse including the word baboon with a trochaic inversion after a caesura
+of blank verse,with a trochaic inversion after a caesura,raccoon,write a line of blank verse including the word raccoon with a trochaic inversion after a caesura
+of blank verse,with a trochaic inversion after a caesura,macaw,write a line of blank verse including the word macaw with a trochaic inversion after a caesura
+of blank verse,with a trochaic inversion after a caesura,alpaca,write a line of blank verse including the word alpaca with a trochaic inversion after a caesura
+of blank verse,with a trochaic inversion after a caesura,hyena,write a line of blank verse including the word hyena with a trochaic inversion after a caesura
+of blank verse,with a trochaic inversion after a caesura,chinchilla,write a line of blank verse including the word chinchilla with a trochaic inversion after a caesura
+of blank verse,with a trochaic inversion after a caesura,coyote,write a line of blank verse including the word coyote with a trochaic inversion after a caesura
+of blank verse,with a trochaic inversion after a caesura,gorilla,write a line of blank verse including the word gorilla with a trochaic inversion after a caesura
+of blank verse,with a trochaic inversion after a caesura,kangaroo,write a line of blank verse including the word kangaroo with a trochaic inversion after a caesura
+of blank verse,with a trochaic inversion after a caesura,platypus,write a line of blank verse including the word platypus with a trochaic inversion after a caesura
+of blank verse,with a trochaic inversion after a caesura,porcupine,write a line of blank verse including the word porcupine with a trochaic inversion after a caesura
+of blank verse,with a trochaic inversion after a caesura,pangolin,write a line of blank verse including the word pangolin with a trochaic inversion after a caesura
+of blank verse,with a trochaic inversion after a caesura,ocelot,write a line of blank verse including the word ocelot with a trochaic inversion after a caesura
+of blank verse,with a trochaic inversion after a caesura,lemur,write a line of blank verse including the word lemur with a trochaic inversion after a caesura
+of blank verse,with a trochaic inversion after a caesura,lemming,write a line of blank verse including the word lemming with a trochaic inversion after a caesura
+of blank verse,with a trochaic inversion after a caesura,otter,write a line of blank verse including the word otter with a trochaic inversion after a caesura
+of blank verse,with a trochaic inversion after a caesura,parrot,write a line of blank verse including the word parrot with a trochaic inversion after a caesura
+of blank verse,with a trochaic inversion after a caesura,squirrel,write a line of blank verse including the word squirrel with a trochaic inversion after a caesura
+of blank verse,with an inverted metrical foot,bear,write a line of blank verse including the word bear with an inverted metrical foot
+of blank verse,with an inverted metrical foot,whale,write a line of blank verse including the word whale with an inverted metrical foot
+of blank verse,with an inverted metrical foot,sloth,write a line of blank verse including the word sloth with an inverted metrical foot
+of blank verse,with an inverted metrical foot,cat,write a line of blank verse including the word cat with an inverted metrical foot
+of blank verse,with an inverted metrical foot,dog,write a line of blank verse including the word dog with an inverted metrical foot
+of blank verse,with an inverted metrical foot,giraffe,write a line of blank verse including the word giraffe with an inverted metrical foot
+of blank verse,with an inverted metrical foot,gazelle,write a line of blank verse including the word gazelle with an inverted metrical foot
+of blank verse,with an inverted metrical foot,baboon,write a line of blank verse including the word baboon with an inverted metrical foot
+of blank verse,with an inverted metrical foot,raccoon,write a line of blank verse including the word raccoon with an inverted metrical foot
+of blank verse,with an inverted metrical foot,macaw,write a line of blank verse including the word macaw with an inverted metrical foot
+of blank verse,with an inverted metrical foot,alpaca,write a line of blank verse including the word alpaca with an inverted metrical foot
+of blank verse,with an inverted metrical foot,hyena,write a line of blank verse including the word hyena with an inverted metrical foot
+of blank verse,with an inverted metrical foot,chinchilla,write a line of blank verse including the word chinchilla with an inverted metrical foot
+of blank verse,with an inverted metrical foot,coyote,write a line of blank verse including the word coyote with an inverted metrical foot
+of blank verse,with an inverted metrical foot,gorilla,write a line of blank verse including the word gorilla with an inverted metrical foot
+of blank verse,with an inverted metrical foot,kangaroo,write a line of blank verse including the word kangaroo with an inverted metrical foot
+of blank verse,with an inverted metrical foot,platypus,write a line of blank verse including the word platypus with an inverted metrical foot
+of blank verse,with an inverted metrical foot,porcupine,write a line of blank verse including the word porcupine with an inverted metrical foot
+of blank verse,with an inverted metrical foot,pangolin,write a line of blank verse including the word pangolin with an inverted metrical foot
+of blank verse,with an inverted metrical foot,ocelot,write a line of blank verse including the word ocelot with an inverted metrical foot
+of blank verse,with an inverted metrical foot,lemur,write a line of blank verse including the word lemur with an inverted metrical foot
+of blank verse,with an inverted metrical foot,lemming,write a line of blank verse including the word lemming with an inverted metrical foot
+of blank verse,with an inverted metrical foot,otter,write a line of blank verse including the word otter with an inverted metrical foot
+of blank verse,with an inverted metrical foot,parrot,write a line of blank verse including the word parrot with an inverted metrical foot
+of blank verse,with an inverted metrical foot,squirrel,write a line of blank verse including the word squirrel with an inverted metrical foot
+in meter,,bear,write a line in meter including the word bear 
+in meter,,whale,write a line in meter including the word whale 
+in meter,,sloth,write a line in meter including the word sloth 
+in meter,,cat,write a line in meter including the word cat 
+in meter,,dog,write a line in meter including the word dog 
+in meter,,giraffe,write a line in meter including the word giraffe 
+in meter,,gazelle,write a line in meter including the word gazelle 
+in meter,,baboon,write a line in meter including the word baboon 
+in meter,,raccoon,write a line in meter including the word raccoon 
+in meter,,macaw,write a line in meter including the word macaw 
+in meter,,alpaca,write a line in meter including the word alpaca 
+in meter,,hyena,write a line in meter including the word hyena 
+in meter,,chinchilla,write a line in meter including the word chinchilla 
+in meter,,coyote,write a line in meter including the word coyote 
+in meter,,gorilla,write a line in meter including the word gorilla 
+in meter,,kangaroo,write a line in meter including the word kangaroo 
+in meter,,platypus,write a line in meter including the word platypus 
+in meter,,porcupine,write a line in meter including the word porcupine 
+in meter,,pangolin,write a line in meter including the word pangolin 
+in meter,,ocelot,write a line in meter including the word ocelot 
+in meter,,lemur,write a line in meter including the word lemur 
+in meter,,lemming,write a line in meter including the word lemming 
+in meter,,otter,write a line in meter including the word otter 
+in meter,,parrot,write a line in meter including the word parrot 
+in meter,,squirrel,write a line in meter including the word squirrel 
+in meter,with rhythmic variation,bear,write a line in meter including the word bear with rhythmic variation
+in meter,with rhythmic variation,whale,write a line in meter including the word whale with rhythmic variation
+in meter,with rhythmic variation,sloth,write a line in meter including the word sloth with rhythmic variation
+in meter,with rhythmic variation,cat,write a line in meter including the word cat with rhythmic variation
+in meter,with rhythmic variation,dog,write a line in meter including the word dog with rhythmic variation
+in meter,with rhythmic variation,giraffe,write a line in meter including the word giraffe with rhythmic variation
+in meter,with rhythmic variation,gazelle,write a line in meter including the word gazelle with rhythmic variation
+in meter,with rhythmic variation,baboon,write a line in meter including the word baboon with rhythmic variation
+in meter,with rhythmic variation,raccoon,write a line in meter including the word raccoon with rhythmic variation
+in meter,with rhythmic variation,macaw,write a line in meter including the word macaw with rhythmic variation
+in meter,with rhythmic variation,alpaca,write a line in meter including the word alpaca with rhythmic variation
+in meter,with rhythmic variation,hyena,write a line in meter including the word hyena with rhythmic variation
+in meter,with rhythmic variation,chinchilla,write a line in meter including the word chinchilla with rhythmic variation
+in meter,with rhythmic variation,coyote,write a line in meter including the word coyote with rhythmic variation
+in meter,with rhythmic variation,gorilla,write a line in meter including the word gorilla with rhythmic variation
+in meter,with rhythmic variation,kangaroo,write a line in meter including the word kangaroo with rhythmic variation
+in meter,with rhythmic variation,platypus,write a line in meter including the word platypus with rhythmic variation
+in meter,with rhythmic variation,porcupine,write a line in meter including the word porcupine with rhythmic variation
+in meter,with rhythmic variation,pangolin,write a line in meter including the word pangolin with rhythmic variation
+in meter,with rhythmic variation,ocelot,write a line in meter including the word ocelot with rhythmic variation
+in meter,with rhythmic variation,lemur,write a line in meter including the word lemur with rhythmic variation
+in meter,with rhythmic variation,lemming,write a line in meter including the word lemming with rhythmic variation
+in meter,with rhythmic variation,otter,write a line in meter including the word otter with rhythmic variation
+in meter,with rhythmic variation,parrot,write a line in meter including the word parrot with rhythmic variation
+in meter,with rhythmic variation,squirrel,write a line in meter including the word squirrel with rhythmic variation
+in meter,with a trochaic inversion,bear,write a line in meter including the word bear with a trochaic inversion
+in meter,with a trochaic inversion,whale,write a line in meter including the word whale with a trochaic inversion
+in meter,with a trochaic inversion,sloth,write a line in meter including the word sloth with a trochaic inversion
+in meter,with a trochaic inversion,cat,write a line in meter including the word cat with a trochaic inversion
+in meter,with a trochaic inversion,dog,write a line in meter including the word dog with a trochaic inversion
+in meter,with a trochaic inversion,giraffe,write a line in meter including the word giraffe with a trochaic inversion
+in meter,with a trochaic inversion,gazelle,write a line in meter including the word gazelle with a trochaic inversion
+in meter,with a trochaic inversion,baboon,write a line in meter including the word baboon with a trochaic inversion
+in meter,with a trochaic inversion,raccoon,write a line in meter including the word raccoon with a trochaic inversion
+in meter,with a trochaic inversion,macaw,write a line in meter including the word macaw with a trochaic inversion
+in meter,with a trochaic inversion,alpaca,write a line in meter including the word alpaca with a trochaic inversion
+in meter,with a trochaic inversion,hyena,write a line in meter including the word hyena with a trochaic inversion
+in meter,with a trochaic inversion,chinchilla,write a line in meter including the word chinchilla with a trochaic inversion
+in meter,with a trochaic inversion,coyote,write a line in meter including the word coyote with a trochaic inversion
+in meter,with a trochaic inversion,gorilla,write a line in meter including the word gorilla with a trochaic inversion
+in meter,with a trochaic inversion,kangaroo,write a line in meter including the word kangaroo with a trochaic inversion
+in meter,with a trochaic inversion,platypus,write a line in meter including the word platypus with a trochaic inversion
+in meter,with a trochaic inversion,porcupine,write a line in meter including the word porcupine with a trochaic inversion
+in meter,with a trochaic inversion,pangolin,write a line in meter including the word pangolin with a trochaic inversion
+in meter,with a trochaic inversion,ocelot,write a line in meter including the word ocelot with a trochaic inversion
+in meter,with a trochaic inversion,lemur,write a line in meter including the word lemur with a trochaic inversion
+in meter,with a trochaic inversion,lemming,write a line in meter including the word lemming with a trochaic inversion
+in meter,with a trochaic inversion,otter,write a line in meter including the word otter with a trochaic inversion
+in meter,with a trochaic inversion,parrot,write a line in meter including the word parrot with a trochaic inversion
+in meter,with a trochaic inversion,squirrel,write a line in meter including the word squirrel with a trochaic inversion
+in meter,with a trochaic inversion after a caesura,bear,write a line in meter including the word bear with a trochaic inversion after a caesura
+in meter,with a trochaic inversion after a caesura,whale,write a line in meter including the word whale with a trochaic inversion after a caesura
+in meter,with a trochaic inversion after a caesura,sloth,write a line in meter including the word sloth with a trochaic inversion after a caesura
+in meter,with a trochaic inversion after a caesura,cat,write a line in meter including the word cat with a trochaic inversion after a caesura
+in meter,with a trochaic inversion after a caesura,dog,write a line in meter including the word dog with a trochaic inversion after a caesura
+in meter,with a trochaic inversion after a caesura,giraffe,write a line in meter including the word giraffe with a trochaic inversion after a caesura
+in meter,with a trochaic inversion after a caesura,gazelle,write a line in meter including the word gazelle with a trochaic inversion after a caesura
+in meter,with a trochaic inversion after a caesura,baboon,write a line in meter including the word baboon with a trochaic inversion after a caesura
+in meter,with a trochaic inversion after a caesura,raccoon,write a line in meter including the word raccoon with a trochaic inversion after a caesura
+in meter,with a trochaic inversion after a caesura,macaw,write a line in meter including the word macaw with a trochaic inversion after a caesura
+in meter,with a trochaic inversion after a caesura,alpaca,write a line in meter including the word alpaca with a trochaic inversion after a caesura
+in meter,with a trochaic inversion after a caesura,hyena,write a line in meter including the word hyena with a trochaic inversion after a caesura
+in meter,with a trochaic inversion after a caesura,chinchilla,write a line in meter including the word chinchilla with a trochaic inversion after a caesura
+in meter,with a trochaic inversion after a caesura,coyote,write a line in meter including the word coyote with a trochaic inversion after a caesura
+in meter,with a trochaic inversion after a caesura,gorilla,write a line in meter including the word gorilla with a trochaic inversion after a caesura
+in meter,with a trochaic inversion after a caesura,kangaroo,write a line in meter including the word kangaroo with a trochaic inversion after a caesura
+in meter,with a trochaic inversion after a caesura,platypus,write a line in meter including the word platypus with a trochaic inversion after a caesura
+in meter,with a trochaic inversion after a caesura,porcupine,write a line in meter including the word porcupine with a trochaic inversion after a caesura
+in meter,with a trochaic inversion after a caesura,pangolin,write a line in meter including the word pangolin with a trochaic inversion after a caesura
+in meter,with a trochaic inversion after a caesura,ocelot,write a line in meter including the word ocelot with a trochaic inversion after a caesura
+in meter,with a trochaic inversion after a caesura,lemur,write a line in meter including the word lemur with a trochaic inversion after a caesura
+in meter,with a trochaic inversion after a caesura,lemming,write a line in meter including the word lemming with a trochaic inversion after a caesura
+in meter,with a trochaic inversion after a caesura,otter,write a line in meter including the word otter with a trochaic inversion after a caesura
+in meter,with a trochaic inversion after a caesura,parrot,write a line in meter including the word parrot with a trochaic inversion after a caesura
+in meter,with a trochaic inversion after a caesura,squirrel,write a line in meter including the word squirrel with a trochaic inversion after a caesura
+in meter,with an inverted metrical foot,bear,write a line in meter including the word bear with an inverted metrical foot
+in meter,with an inverted metrical foot,whale,write a line in meter including the word whale with an inverted metrical foot
+in meter,with an inverted metrical foot,sloth,write a line in meter including the word sloth with an inverted metrical foot
+in meter,with an inverted metrical foot,cat,write a line in meter including the word cat with an inverted metrical foot
+in meter,with an inverted metrical foot,dog,write a line in meter including the word dog with an inverted metrical foot
+in meter,with an inverted metrical foot,giraffe,write a line in meter including the word giraffe with an inverted metrical foot
+in meter,with an inverted metrical foot,gazelle,write a line in meter including the word gazelle with an inverted metrical foot
+in meter,with an inverted metrical foot,baboon,write a line in meter including the word baboon with an inverted metrical foot
+in meter,with an inverted metrical foot,raccoon,write a line in meter including the word raccoon with an inverted metrical foot
+in meter,with an inverted metrical foot,macaw,write a line in meter including the word macaw with an inverted metrical foot
+in meter,with an inverted metrical foot,alpaca,write a line in meter including the word alpaca with an inverted metrical foot
+in meter,with an inverted metrical foot,hyena,write a line in meter including the word hyena with an inverted metrical foot
+in meter,with an inverted metrical foot,chinchilla,write a line in meter including the word chinchilla with an inverted metrical foot
+in meter,with an inverted metrical foot,coyote,write a line in meter including the word coyote with an inverted metrical foot
+in meter,with an inverted metrical foot,gorilla,write a line in meter including the word gorilla with an inverted metrical foot
+in meter,with an inverted metrical foot,kangaroo,write a line in meter including the word kangaroo with an inverted metrical foot
+in meter,with an inverted metrical foot,platypus,write a line in meter including the word platypus with an inverted metrical foot
+in meter,with an inverted metrical foot,porcupine,write a line in meter including the word porcupine with an inverted metrical foot
+in meter,with an inverted metrical foot,pangolin,write a line in meter including the word pangolin with an inverted metrical foot
+in meter,with an inverted metrical foot,ocelot,write a line in meter including the word ocelot with an inverted metrical foot
+in meter,with an inverted metrical foot,lemur,write a line in meter including the word lemur with an inverted metrical foot
+in meter,with an inverted metrical foot,lemming,write a line in meter including the word lemming with an inverted metrical foot
+in meter,with an inverted metrical foot,otter,write a line in meter including the word otter with an inverted metrical foot
+in meter,with an inverted metrical foot,parrot,write a line in meter including the word parrot with an inverted metrical foot
+in meter,with an inverted metrical foot,squirrel,write a line in meter including the word squirrel with an inverted metrical foot
