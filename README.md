@@ -1,8 +1,10 @@
 # metricalgpt
 
-A set of jupyter notebooks to:
+This repository explores tools for generating, scanning (parsing), and analyzing metrical lines (human and AI) 
 
-1) generate prompts for metrical lines (prompt_generator.ipynb)
+You can:
+
+1) generate prompts for metrical lines (prompt_generator.ipynb) + a few resulting dictionaries of prompts (prompts folder)
 
 2) generate AI lines and parse these lines using prosodic.py (LLM_prompt_and_parse.ipynb)
    
@@ -12,7 +14,9 @@ A set of jupyter notebooks to:
         
         Currently runs openai, see gemini_prompt_parse for gemini (buggy output right now)
 
-3) tools for analyzing the results (in dev: parse_df_analyzer)
+3) tools for analyzing the results 
+    parse_analysis/parse_df_analyzer.ipynb
+    parse_analysis/prosodic_vs_metricalbert.ipynb [this compares a BERT classifier's guess about metrical complexity to actual parses]
 
 Additionally, two other scansion scripts to let users try out prosodic.py on lines, texts, and corpora
 
@@ -22,11 +26,7 @@ Additionally, two other scansion scripts to let users try out prosodic.py on lin
 
     easy_scansion_tool: to play with prosodic.py outputs and meter configurations 
 
-## saved prompt_dicts
 
-animal names (~375 variations)
-
-original dict (~100 variations)
 
 ## saved human corpora,  AI responses, and  analysis notebooks
 
@@ -39,6 +39,9 @@ AI data for gemini flash 1.5
 [ECPA (Eighteen Century Poetry Archive)](https://www.eighteenthcenturypoetry.org/)
 
     filtered (basex / xqy) and cleaned to produce 18C blank verse lines and metrical analysis
+
+    You can view and fetch this data (100k lines, parsed and scored) via huggingface: 
+    https://huggingface.co/datasets/bensglaser/18C_IP_Scanned
 
        
 
